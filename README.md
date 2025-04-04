@@ -3,6 +3,7 @@
  - ``Desenvolvedo Mobile 📱``
 
 Me chamo  Patrick Santos, tenho 26 anos e sou natural de São Paulo. Concluí o ensino médio no Polivalente de Candeias -BA, Sou formado em Análise e Desenvolvimento de Sistemas na Faculdade Anhanguera de Jundiai. Sou apaixonado por tecnologia e compartilho meu conhecimento através do meu canal no YouTube "[@PatrickSantoSDev](https://www.youtube.com/@PatrickSantoSDev)", onde vou Começar a fazer live Diaria mostrando meu aprendizado em:
+- 🎨Figma
 - 🗃️ Firibse
 - 🖥️ UI/UX
 - 📱 Kotlin
